@@ -1,0 +1,30 @@
+body {
+  background-color: yellow;
+}
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+h2 {
+  background-color: #00ff00;
+  color: red;
+}
+#p1 {
+  font-weight: bold;
+  text-decoration: underline;
+  margin-bottom: 2cm;
+}
+#p2 {
+  color: #aa00aa;
+}
+ol {
+  color: red;
+  font-size: larger;
+  list-style-type: lower-roman;
+}
+ol ol {
+  color: blue;
+  font-size: smaller;
+  list-style-type: lower-greek;
+}
